@@ -2,6 +2,10 @@
 
 This is a GUIDE for running in the right way each script of python. If you follow the below steps, the results will be exactly as the presented in the 2022 Third International Conference on Information Systems and Software Technologies (ICI2ST) from the paper [Identifying Defective Fruits and Vegetables with Hyper-spectral Images: A Brief Tutorial](https://scholar.google.com.ec/scholar?oi=bibs&cluster=7353641407101134420&btnI=1&hl=es&authuser=1)
 
+## Abstract
+
+Horticulture is the branch of agriculture that addresses the crop of fruits and vegetables. This art of cultivating natural products has been a critical research area that helped to satisfy human's food consumption. The enhancement of quality control has improved the cost-effectiveness and increased the financial profit of the production. This study presents a processing pipeline architecture that assesses the quality of fruits and vegetables through image processing. The solution involves hyper-spectral imaging, image enhancement, image binarization, and median filtering. Our experiments demonstrate that our image processing pipeline proposal successfully identifies the defective regions in a publicly available dataset that contains images of apples and onions.
+
 ## Instructions
 
 Step 1: Create two different folders where you want to save all the images.
